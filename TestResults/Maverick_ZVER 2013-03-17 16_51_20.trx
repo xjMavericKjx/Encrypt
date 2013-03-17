@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="28a383b9-c98f-456f-a297-47a20679f52e" name="Maverick@ZVER 2013-03-17 16:51:20" runUser="ZVER\Maverick" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Параметры тестирования по умолчанию" id="e09e82bb-cc7c-4da1-8bb3-012ba47621ce">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Maverick_ZVER 2013-03-17 16_51_20" />
+  </TestSettings>
+  <Times creation="2013-03-17T16:51:20.9728864+07:00" queuing="2013-03-17T16:51:21.2018263+07:00" start="2013-03-17T16:51:21.2628749+07:00" finish="2013-03-17T16:51:21.5022605+07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestCaesarDecrypt" storage="testbuildscript\myfirsttest.dll" id="ad17cc18-c559-4e9b-4092-ab23991aca01">
+      <Execution id="ad336d3a-0c52-4225-9370-dc5c45a5c0cb" />
+      <TestMethod codeBase="D:/Учеба/Магистратура/2семестр/ИнфБзпЗИиЭВМ/Encrypt/TestBuildScript/MyFirstTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyFirstTest.UnitTest, MyFirstTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCaesarDecrypt" />
+    </UnitTest>
+    <UnitTest name="TestCaesarEncryptError" storage="testbuildscript\myfirsttest.dll" id="969d287e-d2bc-1f5d-5c02-46671c87a1e0">
+      <Execution id="d31cbf3f-28db-4480-865c-ffe49ec090e5" />
+      <TestMethod codeBase="D:/Учеба/Магистратура/2семестр/ИнфБзпЗИиЭВМ/Encrypt/TestBuildScript/MyFirstTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyFirstTest.UnitTest, MyFirstTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCaesarEncryptError" />
+    </UnitTest>
+    <UnitTest name="TestCaesarShiftError" storage="testbuildscript\myfirsttest.dll" id="abe0c41d-7c50-80ac-d9a1-4a809ba81051">
+      <Execution id="c7803102-c9b2-4798-83d4-1c65e14c4834" />
+      <TestMethod codeBase="D:/Учеба/Магистратура/2семестр/ИнфБзпЗИиЭВМ/Encrypt/TestBuildScript/MyFirstTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyFirstTest.UnitTest, MyFirstTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCaesarShiftError" />
+    </UnitTest>
+    <UnitTest name="TestVijinerGetMatrixCharError" storage="testbuildscript\myfirsttest.dll" id="ac0d450f-24d6-49b2-64ed-10be1dbb0121">
+      <Execution id="feee654f-65a6-4f01-8485-2cda5560fb05" />
+      <TestMethod codeBase="D:/Учеба/Магистратура/2семестр/ИнфБзпЗИиЭВМ/Encrypt/TestBuildScript/MyFirstTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyFirstTest.UnitTest, MyFirstTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestVijinerGetMatrixCharError" />
+    </UnitTest>
+    <UnitTest name="TestCaesarEncrypt" storage="testbuildscript\myfirsttest.dll" id="91739421-f4ba-553a-e673-2d60c1537d24">
+      <Execution id="01353d5a-6d36-450c-9098-3f7bec3a03a9" />
+      <TestMethod codeBase="D:/Учеба/Магистратура/2семестр/ИнфБзпЗИиЭВМ/Encrypt/TestBuildScript/MyFirstTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyFirstTest.UnitTest, MyFirstTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCaesarEncrypt" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ad17cc18-c559-4e9b-4092-ab23991aca01" executionId="ad336d3a-0c52-4225-9370-dc5c45a5c0cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="91739421-f4ba-553a-e673-2d60c1537d24" executionId="01353d5a-6d36-450c-9098-3f7bec3a03a9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="969d287e-d2bc-1f5d-5c02-46671c87a1e0" executionId="d31cbf3f-28db-4480-865c-ffe49ec090e5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="abe0c41d-7c50-80ac-d9a1-4a809ba81051" executionId="c7803102-c9b2-4798-83d4-1c65e14c4834" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ac0d450f-24d6-49b2-64ed-10be1dbb0121" executionId="feee654f-65a6-4f01-8485-2cda5560fb05" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ad336d3a-0c52-4225-9370-dc5c45a5c0cb" testId="ad17cc18-c559-4e9b-4092-ab23991aca01" testName="TestCaesarDecrypt" computerName="ZVER" duration="00:00:00.0189333" startTime="2013-03-17T16:51:21.2848822+07:00" endTime="2013-03-17T16:51:21.4442773+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad336d3a-0c52-4225-9370-dc5c45a5c0cb">
+    </UnitTestResult>
+    <UnitTestResult executionId="01353d5a-6d36-450c-9098-3f7bec3a03a9" testId="91739421-f4ba-553a-e673-2d60c1537d24" testName="TestCaesarEncrypt" computerName="ZVER" duration="00:00:00.0001532" startTime="2013-03-17T16:51:21.4462783+07:00" endTime="2013-03-17T16:51:21.4472791+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="01353d5a-6d36-450c-9098-3f7bec3a03a9">
+    </UnitTestResult>
+    <UnitTestResult executionId="d31cbf3f-28db-4480-865c-ffe49ec090e5" testId="969d287e-d2bc-1f5d-5c02-46671c87a1e0" testName="TestCaesarEncryptError" computerName="ZVER" duration="00:00:00.0045651" startTime="2013-03-17T16:51:21.4492805+07:00" endTime="2013-03-17T16:51:21.4552845+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d31cbf3f-28db-4480-865c-ffe49ec090e5">
+    </UnitTestResult>
+    <UnitTestResult executionId="c7803102-c9b2-4798-83d4-1c65e14c4834" testId="abe0c41d-7c50-80ac-d9a1-4a809ba81051" testName="TestCaesarShiftError" computerName="ZVER" duration="00:00:00.0100851" startTime="2013-03-17T16:51:21.4572858+07:00" endTime="2013-03-17T16:51:21.4692798+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c7803102-c9b2-4798-83d4-1c65e14c4834">
+    </UnitTestResult>
+    <UnitTestResult executionId="feee654f-65a6-4f01-8485-2cda5560fb05" testId="ac0d450f-24d6-49b2-64ed-10be1dbb0121" testName="TestVijinerGetMatrixCharError" computerName="ZVER" duration="00:00:00.0007048" startTime="2013-03-17T16:51:21.4712835+07:00" endTime="2013-03-17T16:51:21.4732851+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="feee654f-65a6-4f01-8485-2cda5560fb05">
+    </UnitTestResult>
+  </Results>
+</TestRun>

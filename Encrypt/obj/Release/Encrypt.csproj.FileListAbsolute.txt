@@ -1,0 +1,24 @@
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\TestBuildScript\Encrypt.exe.config
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\TestBuildScript\Encrypt.exe
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\TestBuildScript\Encrypt.pdb
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.csprojResolveAssemblyReference.cache
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.UIMainForm.resources
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.Properties.Resources.resources
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.csproj.GenerateResource.Cache
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.exe
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.pdb
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\bin\Release\Encrypt.exe.config
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\bin\Release\Encrypt.exe
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\bin\Release\Encrypt.pdb
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\bin\Release\Encrypt.exe.config
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.exe
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.pdb
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\bin\Release\Encrypt.exe
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\bin\Release\Encrypt.pdb
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.csprojResolveAssemblyReference.cache
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.UIMainForm.resources
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.Properties.Resources.resources
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Release\Encrypt.csproj.GenerateResource.Cache
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\TestBuildScript\Encrypt.exe.config
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\TestBuildScript\Encrypt.exe
+D:\Учеба\Магистратура\2семестр\ИнфБзпЗИиЭВМ\Encrypt\TestBuildScript\Encrypt.pdb

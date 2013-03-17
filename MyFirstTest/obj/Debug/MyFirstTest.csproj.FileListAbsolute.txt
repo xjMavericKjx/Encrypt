@@ -1,0 +1,7 @@
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\MyFirstTest\bin\Debug\MyFirstTest.dll
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\MyFirstTest\bin\Debug\MyFirstTest.pdb
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\MyFirstTest\bin\Debug\Encrypt.exe
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\MyFirstTest\bin\Debug\Encrypt.pdb
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\MyFirstTest\obj\Debug\MyFirstTest.csprojResolveAssemblyReference.cache
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\MyFirstTest\obj\Debug\MyFirstTest.dll
+D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\MyFirstTest\obj\Debug\MyFirstTest.pdb
