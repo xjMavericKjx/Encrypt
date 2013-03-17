@@ -12,17 +12,29 @@ namespace Encrypt
         
         private void uiEncryptButton_Click(object sender, EventArgs e)
         {
-            uiCryptTextBox.Text = Caesar.Encrypt(uiCryptTextBox.Text.Trim(), Convert.ToInt32(uiShiftTextBox.Text));
+            uiCaesarCryptTextBox.Text = Caesar.Encrypt(uiCaesarCryptTextBox.Text.Trim(), Convert.ToInt32(uiCaesarShiftTextBox.Text));
         }
 
         private void uiDecryptButton_Click(object sender, EventArgs e)
         {
-            uiCryptTextBox.Text = Caesar.Decrypt(uiCryptTextBox.Text.Trim(), Convert.ToInt32(uiShiftTextBox.Text));
+            uiCaesarCryptTextBox.Text = Caesar.Decrypt(uiCaesarCryptTextBox.Text.Trim(), Convert.ToInt32(uiCaesarShiftTextBox.Text));
         }
 
         public int GetShift()
         {
-            return Convert.ToInt32(uiShiftTextBox.Text);
+            return Convert.ToInt32(uiCaesarShiftTextBox.Text);
+        }
+
+        private void uiVijinerEncryptButton_Click(object sender, EventArgs e)
+        {
+            uiVijinerCryptTextBox.Text = Vijiner.Encrypt(uiVijinerCryptTextBox.Text.Trim(),
+                                                         uiVijinerShiftTextBox.Text.Trim());
+        }
+
+        private void uiVijinerDecryptButton_Click(object sender, EventArgs e)
+        {
+            uiVijinerCryptTextBox.Text = Vijiner.Decrypt(uiVijinerCryptTextBox.Text.Trim(),
+                                                         uiVijinerShiftTextBox.Text.Trim());
         }
     }
 }
