@@ -71,7 +71,7 @@
             this.uiCaesarShiftTextBox.Name = "uiCaesarShiftTextBox";
             this.uiCaesarShiftTextBox.Size = new System.Drawing.Size(32, 20);
             this.uiCaesarShiftTextBox.TabIndex = 3;
-            this.uiCaesarShiftTextBox.Text = "5";
+            this.uiCaesarShiftTextBox.Text = "3";
             // 
             // uiVijinerShiftTextBox
             // 
