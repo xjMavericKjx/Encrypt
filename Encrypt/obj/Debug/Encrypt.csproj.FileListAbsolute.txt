@@ -1,9 +1,0 @@
-D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\bin\Debug\Encrypt.exe.config
-D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\bin\Debug\Encrypt.exe
-D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\bin\Debug\Encrypt.pdb
-D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Debug\Encrypt.csprojResolveAssemblyReference.cache
-D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Debug\Encrypt.UIMainForm.resources
-D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Debug\Encrypt.Properties.Resources.resources
-D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Debug\Encrypt.csproj.GenerateResource.Cache
-D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Debug\Encrypt.exe
-D:\Учеба\Магистратура\2 семестр\ИнфБзпЗИиЭВМ\Encrypt\Encrypt\obj\Debug\Encrypt.pdb
